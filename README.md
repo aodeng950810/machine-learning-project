@@ -20,7 +20,7 @@ The process that constructing ,training and test the model.
 
 - Apparent_Age_Prediction.pdf
 
-The pdf version
+The pdf version.
 
 - vgg_face_weights.h5
 
