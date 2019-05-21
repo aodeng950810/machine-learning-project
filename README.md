@@ -13,7 +13,7 @@ Group members:Jingyu Deng(N11750965); Zhiwei Chai(N18705962); Ao Deng(N15059076)
 
 Test on Linux 4.9.0-9-amd64
 
-# Describe
+# Description
 - Apparent_Age_Prediction.ipynb
 
 The process that constructing ,training and test the model.
