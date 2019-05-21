@@ -18,7 +18,7 @@ Test on Linux 4.9.0-9-amd64
 
 The process that preprocessing the dateset to fit our need.
 
-- ML_Project.ipynb
+- ML_Project.pdf
 
 The pdf version.
 
